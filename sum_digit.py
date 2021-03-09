@@ -6,3 +6,6 @@ def odd_sum_digit(l:list)->int:
     return even
 
 # odd function
+
+def eve_sum_digit(l:list)->int:
+    pass
