@@ -13,3 +13,5 @@ def even_sum_digit(l1:list)->int:
         if x%2 == 0:
             even += x
     return even
+
+# ...
